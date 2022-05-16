@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="rainbow" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 317.06 307.48">
+  <rect id="black3" x="0" width="317.06" height="307.48" rx="20.17" ry="20.17"/>
+  <rect id="black02" x="32.22" y="42.77" width="250.7" height="223.9"/>
+  <rect id="black01" x="52.97" y="57.61" width="213.47" height="190.65"/>
+  <g id="music">
+    <rect x="96" y="157.45" width="85.3" height="85.3" rx="40.89" ry="40.89" style="fill: #fff;"/>
+    <polyline points="162.31 73.32 162.31 163.86 180.6 190.85 180.6 111.3 232.49 123.19 232.49 92.48" style="fill: #fff;"/>
+  </g>
+</svg>

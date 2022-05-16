@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="StarMusic" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 317.06 307.48">
+  <rect id="darkGreen" x="0" width="317.06" height="307.48" rx="20.17" ry="20.17" style="fill: #003f3b;"/>
+  <g id="music">
+    <rect x="96" y="135.45" width="85.3" height="85.3" rx="40.89" ry="40.89"/>
+    <polyline points="162.31 51.32 162.31 141.86 180.6 168.85 180.6 89.3 232.49 101.19 232.49 70.48"/>
+  </g>
+  <polygon id="star" points="209.78 89.35 201.83 85.18 193.89 89.37 195.39 80.52 188.95 74.26 197.83 72.96 201.79 64.9 205.78 72.95 214.67 74.22 208.25 80.5 209.78 89.35"/>
+</svg>

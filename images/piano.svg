@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="piano" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 317.06 307.48">
+  <rect id="vinho" width="317.06" height="307.48" rx="20.17" ry="20.17" style="fill: #560d0d;"/>
+  <path id="branca" d="M88.71,82.69v76.62h13.21v44.92H62.73V82.69h25.98Zm39.63,77.5h-14.97v44.04h39.63v-44.04h-11.89l-1.76-77.5h-11.89l.88,77.5h0Zm37.32-.11v44.15h37.98v-44.15h-11.23V82.69h-15.52v77.39h-11.23Zm64.41-77.39v77.72h-13.21v43.82h37.65V82.69h-24.44Z" style="fill: #fff; stroke: #fff; stroke-miterlimit: 10; stroke-width: 2px;"/>
+  <path id="preta" d="M121.41,150.84h-25.76V63.64h25.76v87.19h0Zm49.54-87.18h-25.76v87.19h25.76V63.64h0Zm54.17,.01h-25.76v87.19h25.76V63.64h0Z" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10; stroke-width: 2px;"/>
+</svg>

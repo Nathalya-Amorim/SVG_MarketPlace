@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="vinyl_disc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 317.06 307.47">
+  <rect id="blue" width="317.06" height="307.47" rx="12" ry="12" style="fill: #00bbf0;"/>
+  <circle id="small_yellowcirlce" cx="155.52" cy="151.2" r="78.67" style="fill: #231f22;"/>
+  <circle id="gray" cx="155.52" cy="151.2" r="78.67" style="fill: none; stroke: #6d6e71; stroke-miterlimit: 10; stroke-width: 4px;"/>
+  <circle id="thin_yellow" cx="155.78" cy="150.71" r="31.66" style="fill: #f0cc6b;"/>
+  <circle id="medium_yellowcirlcle" cx="155.78" cy="150.71" r="27.75" style="fill: #f2b121;"/>
+  <circle id="small_blackcircle" cx="155.89" cy="149.82" r="9.69" style="fill: #231f20; stroke: #231f20; stroke-miterlimit: 10;"/>
+  <path id="red" d="M112.68,151.2c-1.57-22.87,13.71-36.5,13.71-36.5m-8.86-7.93s-18.87,16.58-16.93,44.42m87.55,31.31s15.28-13.62,13.71-36.5m-4.84,44.42s18.87-16.58,16.93-44.42" style="fill: none; stroke: #ed1c24; stroke-miterlimit: 10; stroke-width: 2px;"/>
+</svg>
