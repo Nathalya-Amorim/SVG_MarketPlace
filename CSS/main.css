@@ -1,0 +1,266 @@
+/* This is a quick reset - remove default browser styles */
+* {
+  border:none;
+  padding: 0;
+  margin: 0;
+
+  box-sizing: border-box;
+}
+
+body { font-size: 16px; 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+
+h2 {
+   color: black;
+   font-size: 18px;
+   text-align: center;
+}
+
+.hidden { display: none;} 
+/* ================================== Start Grid ============================= */
+
+.svg-grid {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+   grid-template-rows: auto;
+   grid-gap: 20px;
+}
+
+.container svg { width: 35%; 
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#mainHeader {
+   display: grid;
+   grid-template-columns: repeat(12, 1fr);
+}
+
+/* ================================== End Grid ============================= */
+
+
+/* ================================== Start SVG Hover ============================= */
+
+#piano:hover #vinho {
+   fill: red !important;
+}
+
+#vinyl_disc:hover #blue {
+   fill: red !important;
+}
+
+#headPhone:hover #left {
+   fill: red !important; 
+}
+#headPhone:hover #right {
+   fill: blue !important;
+}
+
+#rattle:hover #green {
+   fill: darkorange!important;
+}
+
+#armGuitar:hover #black {
+   fill:greenyellow !important;
+}
+
+#microfone:hover #lightGreen {
+   fill:darkorange !important;
+}
+
+#tambor:hover #yellow {
+   fill: darkslateblue !important;
+}
+
+#pandeiro:hover #grey {
+   fill: darkslateblue !important;
+}
+
+#music:hover #icon {
+   fill: darkslateblue !important;
+}
+
+#acusticBox:hover #wine {
+   fill:blueviolet !important;
+}
+
+#bandolim:hover #lightGreen002 {
+   fill:lightseagreen !important;
+}
+
+#StarMusic:hover #star {
+   fill: yellow !important;
+}
+
+#rainbow:hover #black01 {
+   fill: #cc2b5e !important;
+}
+
+#rainbow:hover #black02 {
+   fill: #2193b0 !important;
+}
+
+#rainbow:hover #black3 {
+   fill: #ffafbd !important;
+}
+/* ================================== Finish SVG Hover ============================= */
+
+/* ================================= Start Nav ============================== */
+
+#mainHeader {
+   position: sticky;
+	background-color: #fff;
+   top: 0px;
+   border-bottom: 1px dashed #2193b0;
+   box-shadow: 0px 5px 8px #888;
+}
+
+#logo {
+   margin-top: 10px;
+   grid-column: 1/4;
+}
+
+#mainNav {
+   grid-column: 4/8;
+   margin-top: 40px;
+}
+
+#mainNav ul li:first-child {
+   margin-left: 0;
+   display: inline;
+}
+
+#mainNav ul li  {
+   display: inline;
+   margin-left: 10%;
+}
+
+#mainNav ul li a:hover {
+   text-decoration: none;
+   color: black;  
+   border-bottom: 5px solid #2193b0;
+   font-size: 20px;
+}
+
+#login a {
+ text-decoration: none;
+ color:#fff;
+}
+
+
+/* ================================= End Nav ============================== */
+.line {
+   border-bottom: 2px solid #2193b0;
+   grid-column: 1/12;
+   margin-bottom: 20px;
+   margin-top: 20px;
+}
+
+ 
+a {
+   text-decoration: none;
+   font-size: 20px;
+}
+
+.buttomSet {
+   display: block;
+    background-color: #2193b0;
+    padding: 15px;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    color: #fff;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+#mainTitle h2{
+   text-align: left;
+   font-size: 25px;
+}
+
+#mainTitle {
+   margin-top: 25px;
+   margin-bottom: 35px;
+   margin-left: 25px;
+}
+
+/* ================================= Start Footer Nav ============================== */
+#mainFooter {
+   display: grid;
+   grid-template-columns: repeat(12, 1fr);
+}
+
+#footerLogo {
+   margin-top: 10px;
+   grid-column: 1/3;
+   margin-left: 20px;
+   margin-bottom: 20px;
+}
+
+#socialMediaFooter {
+   grid-column: 3/6;
+   margin-top: 40px;
+}
+
+#footNav{
+   grid-column: 6/12;
+   margin-top: 40px;
+}
+
+#mainFooter ul li:first-child {
+   margin-left: 0;
+   display: inline;
+}
+
+#mainFooter ul li  {
+   display: inline;
+   margin-left: 10%;
+}
+
+#mainFooter ul li a:hover {
+   text-decoration: none;
+   color: black;  
+   border-bottom: 5px solid #2193b0;
+   font-size: 20px;
+}
+/* ================================= End Footer Nav ============================== */
+
+.container h3 {
+   font-size: 16px;
+   font-weight: bold;
+   text-align: center;
+   margin-top: 15px;
+   margin-bottom: 15px;
+}
+
+.container p {
+   text-align: left;
+   margin-left:50px;
+}
+
+* {
+   box-sizing: border-box;
+ }
+ 
+ /* Style the search field */
+ form.searchB input[type=text] {
+   padding: 10px;
+   font-size: 14px;
+   border-radius: 20px;
+   border: 1px solid #2193b0;
+   float: right;
+   width: 90%;
+   background: #f1f1f1;
+   margin-top: 35px;
+ }
+ 
+ 
+ form.searchButtom button:hover {
+   background: #2193b0;
+ }
+ 
+ 
